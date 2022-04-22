@@ -1,4 +1,5 @@
-#Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+# Programa que vai calcular se o ano é ou foi bissexto.
+
 from time import sleep
 from datetime import date
 print('\033[0;0;36m-=\033[m'*20)
